@@ -1,3 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2DAE73&width=435&lines=Stop+struggling%2C+life+is+stopped.)](https://git.io/typing-svg)
-
-Hey, I'm a graduate student whose research direction is database. Welcome to study together!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=2DAE73&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Stop+struggling%2C+life+is+stoped.)](https://git.io/typing-svg)
