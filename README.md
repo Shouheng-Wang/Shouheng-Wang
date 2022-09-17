@@ -9,9 +9,6 @@ width="800"  height="3">
 
 </div>
 
-<div style="float:right">
-    <img src="https://img.52z.com/upload/news/image/20181108/20181108204521_83402.jpg" width="150">
-</div>
 
 **基本信息：** 王守恒 / 男 / 22&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**现&ensp;在&ensp;地：** 黑龙江哈尔滨
 
